@@ -1,0 +1,7 @@
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe.config
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.exe
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\bin\Debug\Dependency Inversion.pdb
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csproj.AssemblyReference.cache
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.csproj.CoreCompileInputs.cache
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.exe
+D:\Visual Stuido 2019 Projeler\Dependency Inversion\Dependency Inversion\obj\Debug\Dependency Inversion.pdb
